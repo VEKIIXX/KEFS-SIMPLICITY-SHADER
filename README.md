@@ -1,5 +1,5 @@
-
-
+LEMBRANDO,UMA SHADER DE MINECRAFT RUST/HORIZON
+JUST A REMINDER,A MINECRAFT RUST/HORIZON SHADER
 ## Português
 
 O kefs simplicity shader é um shader pack para Minecraft, versão 0.7.2, criado por VEKIIXX. Ele troca a iluminação padrão do jogo por um visual mais limpo e pintado, com contornos suaves nos blocos, sombras, água e um céu que muda com o bioma. A água pode ter aparência pixelada ou de desenho animado, com margem de praia e correnteza. As luzes do jogo (tochas, lava, lanternas de alma) ganham cores próprias e brilham de forma seletiva. Também há névoa por bioma, poeira no deserto, cinzas no Nether, raios de sol, reflexo de lente e auroras e meteoros à noite. Quase tudo pode ser ajustado nas opções, de contraste e saturação até a força dos contornos. Ele foi pensado para ter pouco impacto na performance.
