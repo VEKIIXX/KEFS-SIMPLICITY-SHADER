@@ -1,3 +1,16 @@
+## Português
+
+O kefs simplicity shader é um shader pack para Minecraft, versão 0.7.2, criado por VEKIIXX. Ele troca a iluminação padrão do jogo por um visual mais limpo e pintado, com contornos suaves nos blocos, sombras, água e um céu que muda com o bioma. A água pode ter aparência pixelada ou de desenho animado, com margem de praia e correnteza. As luzes do jogo (tochas, lava, lanternas de alma) ganham cores próprias e brilham de forma seletiva. Também há névoa por bioma, poeira no deserto, cinzas no Nether, raios de sol, reflexo de lente e auroras e meteoros à noite. Quase tudo pode ser ajustado nas opções, de contraste e saturação até a força dos contornos. Ele foi pensado para ter pouco impacto na performance.
+
+A licença é a "Licença Aberta de Propriedade Contínua". Ela permite usar, copiar e modificar o pack, desde que os créditos sejam mantidos e não haja venda. Por outro lado, quem modifica e publica uma versão concede ao autor o direito de usar essas alterações sem pedir permissão, o que vale saber antes de contribuir.
+
+## English
+
+The kefs simplicity shader is a Minecraft shader pack, version 0.7.2, made by VEKIIXX. It replaces the game's default lighting with a cleaner, painted-looking style, with soft outlines around blocks, shadows, water and a sky that changes with the biome. Water can look pixelated or cartoonish, with shorelines and flowing streaks. Light sources like torches, lava and soul lanterns get their own colors and glow selectively. There is biome fog, desert dust, ash in the Nether, sun rays, lens flare, and auroras and meteors at night. Almost everything can be adjusted in the settings, from contrast and saturation to outline strength. It is designed to keep the performance cost low.
+
+It is released under the "Licença Aberta de Propriedade Contínua" (Continuous Property Open License). You can use, copy and modify the pack for free, as long as the credits stay in place and it isn't sold. However, anyone who modifies and publishes a version grants the author a perpetual right to use those changes without asking permission, which is worth knowing before contributing.
+
+the license/a liçensa:
 Licença Aberta de Propriedade Contínua - kefs simplicity shader
 Copyright (c) 2026 VEKIIXX
 
