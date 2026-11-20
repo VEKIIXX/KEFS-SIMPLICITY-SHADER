@@ -6,7 +6,7 @@
 O kefs simplicity shader é um shader pack para Minecraft, versão 0.7.2, criado por VEKIIXX. Ele troca a iluminação padrão do jogo por um visual mais limpo e pintado, com contornos suaves nos blocos, sombras, água e um céu que muda com o bioma. A água pode ter aparência pixelada ou de desenho animado, com margem de praia e correnteza. As luzes do jogo (tochas, lava, lanternas de alma) ganham cores próprias e brilham de forma seletiva. Também há névoa por bioma, poeira no deserto, cinzas no Nether, raios de sol, reflexo de lente e auroras e meteoros à noite. Quase tudo pode ser ajustado nas opções, de contraste e saturação até a força dos contornos. Ele foi pensado para ter pouco impacto na performance.
 <img width="1365" height="695" alt="Captura de tela 2026-11-16 080024" src="https://github.com/user-attachments/assets/1e8957ef-7806-4737-8ac8-8334c27f77d2" />
 A licença é a "Licença Aberta de Propriedade Contínua". Ela permite usar, copiar e modificar o pack, desde que os créditos sejam mantidos e não haja venda. Por outro lado, quem modifica e publica uma versão concede ao autor o direito de usar essas alterações sem pedir permissão, o que vale saber antes de contribuir.
-
+discord:https://discord.gg/bSQF9MJfSy
 ## English
 <img width="1208" height="634" alt="Captura de tela 2026-11-17 103903" src="https://github.com/user-attachments/assets/6bde0eb7-d148-40b4-89e5-e63f3a1bebcb" />
 
