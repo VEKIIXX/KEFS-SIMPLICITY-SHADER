@@ -1,0 +1,3 @@
+*.wgsl linguist-detectable=true
+*.wgsl linguist-language=GLSL
+*.toml linguist-detectable=true
